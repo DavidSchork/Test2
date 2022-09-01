@@ -1,0 +1,1 @@
+% Erste Datei zum Pushen in Git
